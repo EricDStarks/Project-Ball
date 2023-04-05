@@ -1,1 +1,15 @@
+.Iverson {
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    width: 200px;
+    height: 300px;
+}
 
+body {
+    background-color: black;
+
+}
+.bio {
+    color: red;
+}
